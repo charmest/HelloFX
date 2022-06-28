@@ -15,11 +15,11 @@
 }
 #removeGirlfriendButton{
 	-fx-alignment:center-right;
-	-fx-graphic:"file:/C:/perso/GIT/HelloFX/bin/com/testFX/desamour.png";
+	-fx-graphic:url("desamour.png");
 }
 #addGirlfriendButton{
 	-fx-alignment:center-left;
-	-fx-graphic:"file:/C:/perso/GIT/HelloFX/bin/com/testFX/amour.png";
+	-fx-graphic:url("amour.png");
 }
 .bouton{
 	-fx-text-fill:blue;
