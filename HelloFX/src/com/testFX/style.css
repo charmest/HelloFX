@@ -1,0 +1,27 @@
+#vbox{
+	-fx-padding:34;
+	-fx-background-color:#ECF9FF;
+}
+.box{
+	-fx-alignment:center;
+}
+#girlfriendCountLabel{
+	-fx-padding:10;
+}
+.label{
+	-fx-font-size:14px;
+	-fx-font-weight:bold;
+	-fx-alignment:center;
+}
+#removeGirlfriendButton{
+	-fx-alignment:center-right;
+	-fx-graphic:"file:/C:/perso/GIT/HelloFX/bin/com/testFX/desamour.png";
+}
+#addGirlfriendButton{
+	-fx-alignment:center-left;
+	-fx-graphic:"file:/C:/perso/GIT/HelloFX/bin/com/testFX/amour.png";
+}
+.bouton{
+	-fx-text-fill:blue;
+	-fx-background-color:#ECF9FF;
+}
